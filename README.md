@@ -28,6 +28,6 @@
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/nathaniel-abebe-991791227/))
-[![Twitter](https://img.shields.io/badge/-Telegram-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://telegram.com/NathyOne)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/nathaniel-abebe-991791227/)
+[![Twitter](https://img.shields.io/badge/-Telegram-1DA1F2?style=flat&logo=telegram&logoColor=white)](https://telegram.com/NathyOne)
 
