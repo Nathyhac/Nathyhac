@@ -1,4 +1,4 @@
-```md
+
 <h1 align="center">Hi 👋, I'm Natnael Abebe</h1>
 <h3 align="center">A passionate developer with multiple expertise, Golang, Javascript,Reactjs,Nodejs,Expressjs and Vue.js developer</h3>
 
