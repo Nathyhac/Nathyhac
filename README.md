@@ -1,8 +1,3 @@
-Got it\! When I said "make it more beautiful," I assumed you meant improving the visual appeal within the Markdown format itself, similar to how GitHub Readmes often look. I've adjusted the previous output to be pure Markdown that GitHub (and most Markdown renderers) will understand and display well.
-
-Here's the refined version, using standard Markdown features and making the badges look better for a README:
-
-```markdown
 <h1 align="center">Hi 👋, I'm Natnael Abebe</h1>
 <h3 align="center">A passionate developer with expertise across the full stack, specializing in Golang, PostgreSQL, JavaScript, React.js, Node.js, Express.js, and Vue.js.</h3>
 
@@ -43,4 +38,3 @@ Here's the refined version, using standard Markdown features and making the badg
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
-```
