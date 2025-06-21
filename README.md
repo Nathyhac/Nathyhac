@@ -13,8 +13,8 @@
 
 <h2 align="center">🛠️ Languages and Tools</h2\>
 <p align="center"\>
-<img src="[https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/-Go-00ADD8%3Fstyle%3Dfor-the-badge%26logo%3Dgo%26logoColor%3Dwhite)" alt="Go" /\>
-<img src="[https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black](https://www.google.com/search?q=https://img.shields.io/badge/-JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack)" alt="JavaScript" /\>
+<img src="[https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/-Go-00ADD8%3Fstyle%3Dfor-the-badge%26logo%3Dgo%26logoColor%3Dwhite)" alt="Go" \>
+<img src="[https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black](https://www.google.com/search?q=https://img.shields.io/badge/-JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack)" alt="JavaScript" \>
 <img src="[https://img.shields.io/badge/-React.js-61DAFB?style=for-the-badge\&logo=react\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/-React.js-61DAFB%3Fstyle%3Dfor-the-badge%26logo%3Dreact%26logoColor%3Dwhite)" alt="React.js" /\>
 <img src="[https://img.shields.io/badge/-Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/-Node.js-339933%3Fstyle%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite)" alt="Node.js" /\>
 <img src="[https://img.shields.io/badge/-Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white](https://www.google.com/search?q=https://img.shields.io/badge/-Express.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3Dwhite)" alt="Express.js" /\>
